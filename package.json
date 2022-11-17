@@ -1,0 +1,23 @@
+{
+  "name": "db2022",
+  "version": "1.0.0",
+  "description": "``` javascript console.log(\"Hello\"); const name =  \"farshish\"; ``` :grin: [youtube](https://www.youtube.com)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/LehatLK/db2022.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LehatLK/db2022/issues"
+  },
+  "homepage": "https://github.com/LehatLK/db2022#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
