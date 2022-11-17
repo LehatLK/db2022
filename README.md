@@ -9,4 +9,4 @@ const name =  "farshish";
 :grin:
 [youtube](https://www.youtube.com)
 
-![linux] (/Home/lehatk/ws/db2022/tux_linux_penguin_code_binary.webp)
+![linux maskot](/Home/lehatk/ws/db2022/tux_linux_penguin_code_binary.webp)
